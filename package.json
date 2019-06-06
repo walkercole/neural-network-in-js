@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/walkercole/neural-network-in-js/issues"
   },
-  "homepage": "https://github.com/walkercole/neural-network-in-js#readme"
+  "homepage": "https://github.com/walkercole/neural-network-in-js#readme",
+  "dependencies": {
+    "brain.js": "^1.6.1",
+    "webpack": "^4.33.0",
+    "webpack-cli": "^3.3.2"
+  }
 }
